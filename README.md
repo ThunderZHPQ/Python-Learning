@@ -1,1 +1,29 @@
-这是一个统合练习项目，以掌握ai开发为最终目标，从python开始学习，尽可能的走完一个流程
+# Python Learning
+
+> 从 Python 开始，最终掌握 AI 应用开发。
+
+---
+
+## 🎯 学习目标
+
+- [x] Git
+- [x] GitHub
+- [ ] Python 基础
+- [ ] Python 面向对象
+- [ ] Python 文件操作
+- [ ] Git 熟练使用
+- [ ] AI API
+- [ ] RAG
+- [ ] AI Agent
+- [ ] MCP
+
+---
+
+## 📅 学习记录
+
+### Day01
+
+- Git 安装
+- GitHub 创建
+- 第一次 Push
+- VS Code 环境配置
